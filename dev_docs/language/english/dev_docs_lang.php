@@ -11,20 +11,20 @@
  */
 
 $lang = array(
-	
+
 	/**
 	 * Required language lines
 	 */
-	
+
 	'dev_docs_module_name' =>
 	'Dev Docs',
-	
+
 	'dev_docs_module_description' =>
 	'Parse the project Developer Documentation within the CP for easy reading',
-	
+
 	'nav_dev_docs' =>
-	'Dev Docs'
-	
+	'Documentation'
+
 );
 
 /* End of file dev_docs_lang.php */

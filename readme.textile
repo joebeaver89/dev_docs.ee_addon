@@ -1,5 +1,13 @@
 h1. Dev Docs
 
+This is a forked version of Focus Labs' Dev Docs EE module. It has been updated to use a Markdown parser, and to work with EE 2.9.x
+
+-------------------------------------------
+BEGIN FOCUSLABS README
+-------------------------------------------
+
+h1. Dev Docs
+
 Dev Docs was born from a desire to have project-specific, developer-based documentation available within a site's Control Panel.
 
 At Focus Lab we have a file in each project's repository root that is meant only for developers. This file is in Textile formatting (like this readme file) and is meant to be the primary source of information to get "up to speed" on the project. You can learn more about our documentation practices in "our documentation article on EE Insider":http://eeinsider.com/articles/the-dreaded-documentation/.
